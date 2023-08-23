@@ -35,7 +35,7 @@ function App() {
       <Download/>
 
       <div className='px-4 py-2 justify-center items-center bg-purple-400 flex-col text-center banner04'>
-        <p className={`${styles.pText} ${styles.whiteText}`}>Made with love by {" "}
+        <p className={`${styles.pText} ${styles.whiteText}`}>Made with ♥ by {" "}
         <span className='bold'>MoreWare</span>
         </p>
       </div>
