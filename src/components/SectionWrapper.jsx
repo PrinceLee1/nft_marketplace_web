@@ -26,7 +26,7 @@ const SectionWrapper = ({ title, mockupImage, showBtn, description, banner, reve
         {showBtn && (
           <Button
             assetUrl={assets.expo}
-            link="marketplace url"
+            link="https://expo.dev/accounts/princelee/projects/morenft/updates/7aa50cb3-050e-4b0d-8207-a30f11d7e917"
           />
         )}
       </div>
